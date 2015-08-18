@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color:#fefefe;
+  color:#1c1e21;
+  font-family:'open sans';
+}
+.button {
+  padding: 1em;
+  display:inline-block;
+  margin-top:40vh;
+  margin: 0 auto;
+  background-color: #1c1e21;
+  color: #fefefe;
+  border: 0.3em solid #1c1e21;
+}
+.button:hover {
+  border: 0.3em solid #fefefe;
+}
